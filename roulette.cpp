@@ -1,6 +1,6 @@
 /*
-	Roulette - Programming Fundamentals with C++
-	Copyright (C) 2016 David Boya <david@boya.se>
+    Roulette - Programming Fundamentals with C++
+    Copyright (C) 2016 David Boya <david@boya.se>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
